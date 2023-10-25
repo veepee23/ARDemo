@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "ARDemo";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "ARDemo camera use";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "ARDemo photo use";
